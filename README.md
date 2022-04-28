@@ -17,7 +17,7 @@
 
 - :telescope: I’m looking for work as a Software Engineer and hoping to contribute in frontend and backend to build web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Sharpening my skills as a full-stack web developer each and every day.
 
 - :zap: In my free time, I take courses on Udemy to learn more about MERN and MEVN stacks since now my main focus is getting more experience in JavaScript.
 
